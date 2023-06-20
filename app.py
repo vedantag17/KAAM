@@ -9,8 +9,8 @@ from langchain.llms import OpenAI
 
 def main():
     load_dotenv()
-    st.set_page_config(page_title="Ask your PDF")
-    st.header("Ask your PDF ")
+    st.set_page_config(page_title="KAAM")
+    st.header("KKW Buddy! ")
 
     pdf = st.file_uploader("Upload your PDF", type="pdf")
 
