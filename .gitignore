@@ -1,5 +1,6 @@
 .env
-.env.example
 env
 try.py
 try2.py
+auto.py
+file_db.sqlite
